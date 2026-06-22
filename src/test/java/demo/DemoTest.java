@@ -9,6 +9,7 @@ public class DemoTest {
 	{
 		System.out.println("Swapped");
 		System.out.println("Titanic");
+		System.out.println("ABC");
 	}
 
 }
